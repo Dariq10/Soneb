@@ -1,0 +1,36 @@
+*{
+   margin: 0px;
+   padding: 0px;
+   box-sizing: border-box;
+}
+body{
+   background: #CFCFCF;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 100vh;
+}
+.haray{
+   width: 80%;
+   height: 50vh;
+   background: #FFFFFF;
+   box-shadow: 0px 0px 10px #BABABA;
+   border-radius: 20px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   flex-direction: column;
+}
+.haray h1{
+   text-align: center;
+   font-size: 20px;
+   margin-top: 20px;
+}
+.haray span{
+   color: red;
+}
+.haray p{
+   text-align: center;
+   font-size: 15px;
+   margin-top: 20px;
+}
